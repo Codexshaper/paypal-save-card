@@ -1,0 +1,16 @@
+{
+    "require": {
+        "paypal/rest-api-sdk-php": "*",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codexshaper\\": "Codexshaper/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Codexshaper\\": "Codexshaper/"
+        }
+    }
+}
